@@ -14,7 +14,7 @@
 
 # ENTER DESCRIPTION OF TASK PERFORMED NOT LESS THAN 500 WORDS
 
- AUTOMATED REPORT GENERATIONT is a script that automates reading data from files (e.g., CSV, JSON), analyzing it, and generating formatted PDF reports using Pandas for data handling and FPDF/ReportLab for PDF creation.
+ AUTOMATED REPORT GENERATION is a script that automates reading data from files (e.g., CSV, JSON), analyzing it, and generating formatted PDF reports using Pandas for data handling and FPDF/ReportLab for PDF creation.
 **Features**
  Reads and processes data files (e.g., CSV, Excel).
  Analyzes data with key metrics and trends.
